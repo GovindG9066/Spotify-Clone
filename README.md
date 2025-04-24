@@ -38,8 +38,8 @@ A simple and responsive Spotify Clone built using modern web technologies. This 
 
 ## 📬 Connect with Me
 
-- GitHub: [YourUsername](https://github.com/GovindG9066/Spotify-Clone)
-- LinkedIn: [YourLinkedIn](https://www.linkedin.com/in/govind-gadekar-635441252/?trk=opento_sprofile_details)
+- GitHub: [My Github](https://github.com/GovindG9066/Spotify-Clone)
+- LinkedIn: [Govind Gadekar](https://www.linkedin.com/in/govind-gadekar-635441252/?trk=opento_sprofile_details)
 
 ---
 
